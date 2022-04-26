@@ -3,7 +3,7 @@ module.exports = {
 	description: "Sammy McKay's personal website",
 	skip: false,
 	options: {
-		frequency: 60, // 1 hours
+		frequency: 10, // 10 min
 		freshChrome: "site"
 	},
 	urls: [
